@@ -8,6 +8,8 @@ One of the issues with our new, larger campus is we're not always sure who's on 
 
 Because of it, I wrote "Who's Here".
 
+![The working example of Who's Here](/whoshere-screenshot.png)
+
 ## What is Who's Here?
 
 Who's Here, is an automatic In/Out board for UniFi networks, which queries the UniFi controller to "search" for specified MAC address of respective device(s). When the MAC address is "Active", it will display which hotspot the user is connected to, and display it. Otherwise, it will query the last time the user was last seen, and display it.
